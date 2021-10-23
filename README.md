@@ -315,9 +315,9 @@ ___
 
 How to compile:
 
-___
+```
 g++ ShoppingCart.cpp Grocery.cpp Vegetable.cpp JunkFood.cpp Drink.cpp <test main file> -std=c++17
-___
+```
 
 You must always implement and test you programs INCREMENTALLY!!! What does this mean?
 
